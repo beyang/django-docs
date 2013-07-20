@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/sourcegraph/django-docs"
+	"github.com/beyang/django-docs"
 	"log"
 )
 
